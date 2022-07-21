@@ -39,6 +39,8 @@
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
+[Trophy stats](https://github.com/migzao01/migzao01#Stats) are found [here](https://github.com/ryo-ma/github-profile-trophy). The [LONG METRICS](https://github.com/migzao01/migzao01#Long-Metrics) found at the bottom are found [here](https://github.com/lowlighter/metrics)
+
 
 
 
