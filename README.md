@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently finishing a Full-Stack Web Developer Bootcamp @ Academia de Código
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 
