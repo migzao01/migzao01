@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-!<img width="140px" alt="migzao01 Github profile views" src="https://komarev.com/ghpvc/?username=migzao01" /> 
+<img width="140px" alt="migzao01 Github profile views" src="https://komarev.com/ghpvc/?username=migzao01" /> 
 
 ## 💬 Let's connect
 
