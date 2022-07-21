@@ -29,7 +29,7 @@
 
 ## 📈 GitHub Stats
 
-[migzao01 GitHub stats](https://github-readme-stats.vercel.app/api?username=migzao01&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
+[![Tiago's github stats](https://github-readme-stats.vercel.app/api?username=migzao01&count_private=true&show_icons=true&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/migzao01/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=migzao01&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migzao01&theme=tokyonight&langs_count=10&hide_border=true)](https://github.com/migzao01) 
 
