@@ -39,8 +39,3 @@
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
-Note: I spent a long time looking for [these stats](https://github.com/whippingdot/whippingdot#My-stats), so just go [here](https://github.com/anuraghazra/github-readme-stats) and follow the instructions to get your stats. [Trophy stats](https://github.com/whippingdot/whippingdot#Stats) are found [here](https://github.com/ryo-ma/github-profile-trophy). The [LONG METRICS](https://github.com/whippingdot/whippingdot#Long-Metrics) found at the bottom are found [here](https://github.com/lowlighter/metrics)
-
-
-
-
