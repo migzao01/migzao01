@@ -17,7 +17,7 @@
 
 - 🥅 2022 Goals: Start a career in Web Development
 
-- ⚡ Fun fact: I love playing Badminton, videogames && watching anime 
+- ⚡ Fun fact: I love playing Badminton, videogames && watching anim 
 
 ## 💻 Languages and Tools:
 
