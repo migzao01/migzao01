@@ -15,7 +15,7 @@
 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 
-- 🥅 2022 Goals: Start a carrer in Web Development
+- 🥅 2022 Goals: Start a career in Web Development
 
 - ⚡ Fun fact: I love playing Badminton, videogames && watching anime 
 
